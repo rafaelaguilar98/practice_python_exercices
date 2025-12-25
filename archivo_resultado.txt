@@ -1,0 +1,2 @@
+Este es un
+ ejemplo de texto para poder copiarla con buffer
